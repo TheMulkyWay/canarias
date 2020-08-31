@@ -1958,28 +1958,7 @@
         "cv_14dh": 0
       }
     },
-    {
-      "attributes": {
-        "FID": 86,
-        "codmun": 38042,
-        "municipio": "Los Silos",
-        "isla": "TENERIFE",
-        "cv19_total": 9,
-        "pob2019": 4693,
-        "cv19_pc": 0.191774984018751,
-        "cv19_falle": 0,
-        "cv19_recu": 9,
-        "cv19_lltot": 0,
-        "cv19_lln1": 0,
-        "cv19_lln2": 0,
-        "tipo_mun": "Residencia",
-        "cv19_acti": 0,
-        "dias_nc": 127,
-        "cv_14d": 0,
-        "cv_14dh": 0
-      }
-    },
-    {
+     {
       "attributes": {
         "FID": 87,
         "codmun": 35008,
